@@ -1,13 +1,13 @@
-# 🚀 Personal Portfolio Website
+#  Personal Portfolio Website
 
 Welcome to my personal portfolio repository!  
 This project showcases my skills, projects, and journey as an engineering student and aspiring software developer.
 
-🌐 **Live Portfolio:** https://aimlworkshop.netlify.app/  
+ **Live Portfolio:** https://aimlworkshop.netlify.app/  
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
 I am a **B.Tech Computer Science Engineering student** passionate about:
 - Software Development
@@ -19,7 +19,7 @@ I focus on building **practical projects**, improving **problem-solving skills**
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 **Frontend**
 - HTML5  
@@ -38,7 +38,7 @@ I focus on building **practical projects**, improving **problem-solving skills**
 
 ---
 
-## 📂 Portfolio Sections
+##  Portfolio Sections
 
 - **Home** – Introduction & profile overview  
 - **Skills** – Technical skills & tools  
@@ -48,7 +48,7 @@ I focus on building **practical projects**, improving **problem-solving skills**
 
 ---
 
-## 📌 Featured Projects
+##  Featured Projects
 
 - **AI/ML Workshop Website** – Informational and learning-focused site  
 - **Data Analysis Projects** – Using NumPy & Pandas  
@@ -58,7 +58,7 @@ I focus on building **practical projects**, improving **problem-solving skills**
 
 ---
 
-## 🚀 Getting Started (Local Setup)
+##  Getting Started (Local Setup)
 
 ```bash
 git clone https://github.com/your-username/your-repo-name.git
